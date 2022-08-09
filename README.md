@@ -8,7 +8,7 @@ My favourite programming language is python and favourite framework is django
 
 <br><br>
 **My skills**<br><br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,mysql,postgres,c,java,figma,git,github&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,mysql,postgres,c,java,figma,git,github,vscode&perline=5)](https://skillicons.dev)
 <br><br>
 **Will learn:**<br><br>
 [![My Skills](https://skillicons.dev/icons?i=python,django,react,redux,tailwind,cs,docker)](https://skillicons.dev)
