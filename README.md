@@ -2,7 +2,7 @@
 
 Hi 😃 I am Roshan<br>
 Currently I an a student of **Bachelors of Computer Application(BCA)** 5th semester in Tribhuvan University(TU)<br><br>
-My interests in IT field are web application development and android application development<br><br><br>
+My interests in IT field are web application development and android application development<br><br>
 And apart from IT field my interests and hobbies are music,spirituality,meditation,stock market,travelling,swimming<br><br>
 My favourite programming language is python and favourite framework is django<br><br>
 **My skills**<br><br>
