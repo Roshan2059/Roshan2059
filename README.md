@@ -6,7 +6,7 @@ My interests in IT field are web application development and android application
 And apart from IT field my interests and hobbies are music,spirituality,meditation,stock market,travelling,swimming<br><br>
 My favourite programming language is python and favourite framework is django<br><br>
 **My skills**<br><br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,python,php,mysql,postgres,c,java,git,github,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,python,php,mysql,postgres,c,cs,java,git,github,&perline=6)](https://skillicons.dev)
 <br><br>
 **Will learn:**<br><br>
-[![My Skills](https://skillicons.dev/icons?i=django,react,redux,tailwind,cs,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,react,redux,tailwind,docker)](https://skillicons.dev)
