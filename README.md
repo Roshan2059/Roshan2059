@@ -9,7 +9,7 @@ And apart from IT field my interests and hobbies are music,spirituality,meditati
 My favourite programming language is python and favourite framework is django<br><br>
 #
 # My skills: <br><br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,python,php,mysql,postgres,c,cs,java,git,github,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,python,php,mysql,postgres,c,cs,java,git,github&perline=7)](https://skillicons.dev)
 <br><br>
 # To learn: <br><br>
 [![My Skills](https://skillicons.dev/icons?i=django,react,redux,tailwind,docker)](https://skillicons.dev)
